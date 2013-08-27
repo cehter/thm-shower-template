@@ -1,13 +1,13 @@
 # Shower presentation example
 
 I made a few changes:
-- new theme named THM with a new font and other colors. 
+- new theme named [THM](https://github.com/cehter/thm) with a new font and other colors. 
 - add prettify for code-snippets
 - breadcrumbs with the h3-tag (not this nicely done yet)
 - add the class: show -> white-space for an picture or in my case an iframe.
 
 ------------------------------------------------------------------------------------
-Based on [shower](https://github.com/shower/shower) engine and [ribbon](https://github.com/shower/ribbon) theme.
+Based on [shower](https://github.com/shower/shower) engine.
 
 To see Shower in action:
 
